@@ -12,7 +12,7 @@ actual_rate = 36.88
 received_rate = 36.33
 
 # ค่า fee
-fee = 20
+fee = 20*actual_rate
 
 additional_payments = {}
 
